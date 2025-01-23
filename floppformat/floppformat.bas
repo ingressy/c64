@@ -4,8 +4,8 @@
 
 40 print chr$(147)
 rem spc number (40 - txt) /2
-50 print spc(7) "floppformat by backbard it"
-60 print spc(7) "version v1.1 (c) 2017-2025"
+50 print spc(7) "floppformat by backbord it"
+60 print spc(7) "version v1.2 (c) 2017-2025"
 70 print ""
 
 80 print "welches laufwerk?"
@@ -36,7 +36,7 @@ rem eingaben anzeigen
 
 rem formatiert die floppy
 330 print chr$(147)
-340 print spc(7) "floppformat by backbard it"
+340 print spc(7) "floppformat by backbord it"
 350 print spc(7) "version v1.1 (c) 2017-2025"
 
 360 print ""
